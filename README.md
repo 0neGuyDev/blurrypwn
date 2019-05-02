@@ -2,7 +2,7 @@
 
 ## **How did i discover it?**
 I was testing out the new features of backdrop-filter.
-Then found my devices were starting to become slow really quick, my mistake.
+Then found my devices were starting to become slow really quick, by mistake.
 
 Then I tested it and found out how it works.
 
