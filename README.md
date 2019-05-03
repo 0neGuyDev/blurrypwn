@@ -2,7 +2,8 @@
 
 ## **How did i discover it?**
 I was testing out the new features of backdrop-filter.
-Then found my devices were starting to become slow really quick, by mistake.
+And a person I know told me there is better perfomance when having multiple elements with backdrop-filter rather than one with less blur, now obviously I knew that was incorrect but I needed to prove him wrong... And it turns out he was joking ;(
+Wasted time I thought until I found my devices were starting to become slow.
 
 Then I tested it and found out how it works.
 
