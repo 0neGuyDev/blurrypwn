@@ -1,7 +1,6 @@
-<center><img src="Icon.png" width="125px"></center>
+<center><img style="text-align:center" src="Icon.png" width="125px"></center>
 
-<center><h1>blurrypwn - a webkit exploit</h1></center>
-<style>h1 {font-weight:700;font-size:35px;}</style>
+<center><h1 style="font-weight:700;font-size:35px;text-align:center;">blurrypwn - a webkit exploit</h1></center>
 
 ## **How did i discover it?**
 I was testing out the new features of backdrop-filter.
