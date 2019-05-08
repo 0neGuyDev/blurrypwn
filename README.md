@@ -25,7 +25,7 @@ Now most browsers can easily do all this as it's just solid pixels and it actual
 But with some fiddling, you can make it hard for the browser to render...
 But yeah, as states most browsers have some smart ways of not having to render stuff that ain't on screen, like transparent elements.
 
-### *Little sidenote! Around 3500-4000 divs are need to crash the browser or device, atleast in most cases! It may be less it may be more*
+### *Little sidenote! Around 3500-4000 divs are needed to crash the browser or device, at least in most cases! It may be less it may be more*
 
 Now, you can indeed just have 4000 divs already in the HTML file and just add a blur to it, instead of doing it after the HTML has loaded and also doing it with JavaScript, but that's no fun...
 
